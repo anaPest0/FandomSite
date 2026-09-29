@@ -1,0 +1,37 @@
+h1 {
+	background-color: rgb(175, 175, 255);
+}
+body {
+	background-color: rgb(175, 255, 239);
+}
+
+#title {
+    font-family: Dancing Script, cursive;
+    font-size: 48px;
+    color: #4a0a27;
+    background-color: rgb(255, 231, 248);
+    width: 675px;
+    text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #bd4545;
+  display: flex;
+}
+ul li {
+  float: left;
+} 
+
+ul li a {
+  display: block;
+  color: rgb(86, 30, 255);
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #b397ff;
+}

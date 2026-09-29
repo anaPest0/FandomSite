@@ -35,3 +35,8 @@ ul li a {
 ul li a:hover {
   background-color: #b397ff;
 }
+
+img {
+    width: 1200px;
+    height: 800px;
+}
